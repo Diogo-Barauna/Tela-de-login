@@ -1,0 +1,2 @@
+Usuário padrão = teste
+Senha = teste123
